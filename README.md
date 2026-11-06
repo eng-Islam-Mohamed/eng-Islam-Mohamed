@@ -7,9 +7,9 @@
 <p align="center"><samp>「 Software engineer building web, mobile, and AI solutions 」</samp></p>
 <p align="center"><samp>École Nationale Supérieure d’Informatique · ESI</samp></p>
 <p align="center">
-  <a href="https://mohamed-islam-showcase.vercel.app"><img src="https://img.shields.io/badge/Portfolio-explore-2dd4bf?style=flat-square&amp;logo=vercel&amp;logoColor=white&amp;labelColor=17272a" alt="Explore my portfolio" /></a>
+  <a href="https://mohamed-islam-showcase.vercel.app"><img src="https://img.shields.io/badge/Portfolio-explore-d42d46?style=flat-square&amp;logo=vercel&amp;logoColor=white&amp;labelColor=291b18" alt="Explore my portfolio" /></a>
   <a href="https://github.com/eng-Islam-Mohamed/eng-Islam-Mohamed"><img src="./docs/assets/svg/profile_badge.svg" alt="Profile repository" /></a>
-  <a href="./docs/pages/COLLAB.md"><img src="https://img.shields.io/badge/open_to-collaboration-e6b566?style=flat-square&amp;labelColor=17272a" alt="Open to collaboration" /></a>
+  <a href="./docs/pages/COLLAB.md"><img src="https://img.shields.io/badge/open_to-collaboration-e67b66?style=flat-square&amp;labelColor=291b18" alt="Open to collaboration" /></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <a href="https://mohamed-islam-showcase.vercel.app"><b>Website</b></a> &nbsp;|&nbsp; <a href="./docs/pages/PROJECTS.md"><b>Projects</b></a> &nbsp;|&nbsp; <a href="./docs/pages/COLLAB.md"><b>Collaboration</b></a>
 </p>
 <p align="center">
-<img src="./docs/assets/svg/dividers/divider_cyber_cycle.svg" width="100%" alt="Animated emerald and cyan divider" />
+<img src="./docs/assets/svg/dividers/divider_cyber_cycle.svg" width="100%" alt="Animated crimson and coral divider" />
 </p>
 <p align="center">
 <img src="./docs/assets/svg/pages/system_access_title.svg" width="100%" alt="System access" />
@@ -36,13 +36,13 @@
 <a href="./docs/pages/PROJECTS.md"><img src="./docs/assets/svg/system/explore_labs_button.svg" width="34%" alt="Explore my projects" /></a>
 </p>
 <p align="center">
-<img src="./docs/assets/svg/dividers/divider_cyber_cycle_mirrored.svg" width="100%" alt="Animated emerald and cyan divider" />
+<img src="./docs/assets/svg/dividers/divider_cyber_cycle_mirrored.svg" width="100%" alt="Animated crimson and coral divider" />
 </p>
 <p align="center">
 <img src="./docs/assets/svg/pages/islam_core.svg" width="100%" alt="System core — capabilities, interests, and principles" />
 </p>
 <p align="center">
-<img src="./docs/assets/svg/dividers/divider_data_capsul.svg" width="100%" alt="Animated emerald and cyan divider" />
+<img src="./docs/assets/svg/dividers/divider_data_capsul.svg" width="100%" alt="Animated crimson and coral divider" />
 </p>
 
 # 🛠 Technologies, Projects, and Domains
@@ -65,22 +65,22 @@
 <a href="./docs/pages/AI_DOMAIN.md"><img src="./docs/assets/svg/pages/ai_domains.svg" width="220" alt="Web, mobile, AI, games, UX, and automation" /></a>
 </td></tr></table>
 <p align="center">
-<img src="./docs/assets/svg/dividers/divider_circuit_pulse_bar.svg" width="100%" alt="Animated emerald and cyan divider" />
+<img src="./docs/assets/svg/dividers/divider_circuit_pulse_bar.svg" width="100%" alt="Animated crimson and coral divider" />
 </p>
 
 ### 📊 Vital Statistics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=eng-Islam-Mohamed&amp;hide_border=true&amp;background=0D1117&amp;ring=2DD4BF&amp;fire=E6B566&amp;currStreakLabel=2DD4BF&amp;sideLabels=A0B5AF&amp;currStreakNum=F0F7F3&amp;sideNums=F0F7F3&amp;dates=A0B5AF&amp;stroke=29423F" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=eng-Islam-Mohamed&amp;hide_border=true&amp;background=0D1117&amp;ring=FB7185&amp;fire=e67b66&amp;currStreakLabel=FB7185&amp;sideLabels=b5a0a3&amp;currStreakNum=F0F7F3&amp;sideNums=F0F7F3&amp;dates=b5a0a3&amp;stroke=42292d" alt="GitHub contribution streak" />
 </p>
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eng-Islam-Mohamed&amp;theme=github_dark" alt="GitHub contribution summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eng-Islam-Mohamed&amp;theme=github_dark&amp;title_color=FB7185&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=382329&amp;icon_color=D6A5AD&amp;chart_color=E65B73" alt="GitHub contribution summary" />
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=eng-Islam-Mohamed&amp;label=PROFILE%20VIEWS&amp;color=0f766e&amp;style=flat-square" alt="Profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=eng-Islam-Mohamed&amp;label=PROFILE%20VIEWS&amp;color=731221&amp;style=flat-square" alt="Profile view counter" />
 </p>
 <p align="center">
-<img src="./docs/assets/svg/dividers/divider_dual_energy_tracks.svg" width="100%" alt="Animated emerald and cyan divider" />
+<img src="./docs/assets/svg/dividers/divider_dual_energy_tracks.svg" width="100%" alt="Animated crimson and coral divider" />
 </p>
 
 <table width="100%"><tr>
@@ -99,15 +99,15 @@ I’m open to collaborating on:
 </td>
 <td width="33%" valign="top" align="center">
 <h2>📫 Contact</h2><br>
-<a href="https://mohamed-islam-showcase.vercel.app"><img src="https://img.shields.io/badge/Personal_Website-Portfolio-2dd4bf?style=for-the-badge&amp;labelColor=17272a&amp;logo=vercel&amp;logoColor=white" alt="Personal portfolio" /></a>
+<a href="https://mohamed-islam-showcase.vercel.app"><img src="https://img.shields.io/badge/Personal_Website-Portfolio-d42d46?style=for-the-badge&amp;labelColor=291b18&amp;logo=vercel&amp;logoColor=white" alt="Personal portfolio" /></a>
 <br><br>
-<a href="mailto:nm_benaboud@esi.dz"><img src="https://img.shields.io/badge/Email-nm__benaboud%40esi.dz-34d399?style=for-the-badge&amp;labelColor=17272a&amp;logo=gmail&amp;logoColor=white" alt="Email: nm_benaboud@esi.dz" /></a>
+<a href="mailto:nm_benaboud@esi.dz"><img src="https://img.shields.io/badge/Email-nm__benaboud%40esi.dz-d3344c?style=for-the-badge&amp;labelColor=291b18&amp;logo=gmail&amp;logoColor=white" alt="Email: nm_benaboud@esi.dz" /></a>
 <br><br>
-<a href="https://github.com/eng-Islam-Mohamed?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My_Projects-67e8f9?style=for-the-badge&amp;labelColor=17272a&amp;logo=github&amp;logoColor=white" alt="My GitHub repositories" /></a>
+<a href="https://github.com/eng-Islam-Mohamed?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My_Projects-ea8a76?style=for-the-badge&amp;labelColor=291b18&amp;logo=github&amp;logoColor=white" alt="My GitHub repositories" /></a>
 </td></tr></table>
 
 <p align="center">
-<img src="./docs/assets/svg/dividers/divider_dual_energy_tracks.svg" width="100%" alt="Animated emerald and cyan divider" />
+<img src="./docs/assets/svg/dividers/divider_dual_energy_tracks.svg" width="100%" alt="Animated crimson and coral divider" />
 </p>
 <p align="center">
 ⚡ Building modern, scalable, and user-focused applications
@@ -116,5 +116,5 @@ I’m open to collaborating on:
 <a href="./docs/pages/PROJECTS.md">Projects</a> · <a href="./docs/pages/LABS.md">Labs</a> · <a href="./docs/pages/AI_DOMAIN.md">Focus Areas</a> · <a href="./docs/pages/COLLAB.md">Collaboration</a> · <a href="./CREDITS.md">Design Credits</a>
 </p>
 <p align="center">
-<img src="./docs/assets/svg/profile_footer.svg" width="100%" alt="Emerald profile footer wave" />
+<img src="./docs/assets/svg/profile_footer.svg" width="100%" alt="Crimson profile footer wave" />
 </p>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="100%" height="120">
   <defs>
     <linearGradient id="grad" x1="0" x2="1000">
-      <stop offset="0%" stop-color="#2dd4bf"/>
-      <stop offset="50%" stop-color="#34d399"/>
-      <stop offset="100%" stop-color="#67e8f9"/>
+      <stop offset="0%" stop-color="#d42d46"/>
+      <stop offset="50%" stop-color="#d3344c"/>
+      <stop offset="100%" stop-color="#ea8a76"/>
     </linearGradient>
 
     <filter id="glow">
@@ -22,15 +22,15 @@
       }
       .sub {
         font: 400 12px monospace;
-        fill: #64748b;
+        fill: #8b6b64;
         letter-spacing: 2px;
       }
     </style>
   </defs>
 
   <!-- lines -->
-  <line x1="0" y1="60" x2="400" y2="60" stroke="#29423f" stroke-width="2"/>
-  <line x1="600" y1="60" x2="1000" y2="60" stroke="#29423f" stroke-width="2"/>
+  <line x1="0" y1="60" x2="400" y2="60" stroke="#42292d" stroke-width="2"/>
+  <line x1="600" y1="60" x2="1000" y2="60" stroke="#42292d" stroke-width="2"/>
 
   <!-- animated energy -->
   <line x1="0" y1="60" x2="1000" y2="60"
@@ -44,8 +44,8 @@
 
   <!-- center node -->
   <g transform="translate(500,60)" filter="url(#glow)">
-    <circle r="14" fill="none" stroke="#2dd4bf" stroke-width="2"/>
-    <circle r="6" fill="#2dd4bf"/>
+    <circle r="14" fill="none" stroke="#d42d46" stroke-width="2"/>
+    <circle r="6" fill="#d42d46"/>
     <animateTransform attributeName="transform"
                       type="rotate"
                       from="0 500 60"

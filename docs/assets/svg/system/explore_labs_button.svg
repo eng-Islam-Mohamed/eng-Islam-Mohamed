@@ -4,20 +4,20 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="420" y2="86" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="48%" stop-color="#101b1e"/>
-      <stop offset="100%" stop-color="#112321"/>
+      <stop offset="48%" stop-color="#1d1311"/>
+      <stop offset="100%" stop-color="#211415"/>
     </linearGradient>
     <linearGradient id="edge" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0"/>
-      <stop offset="24%" stop-color="#2dd4bf" stop-opacity="0.9"/>
-      <stop offset="52%" stop-color="#6ee7b7" stop-opacity="0.82"/>
-      <stop offset="78%" stop-color="#10b981" stop-opacity="0.78"/>
-      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#d42d46" stop-opacity="0"/>
+      <stop offset="24%" stop-color="#d42d46" stop-opacity="0.9"/>
+      <stop offset="52%" stop-color="#e76e80" stop-opacity="0.82"/>
+      <stop offset="78%" stop-color="#ae1b31" stop-opacity="0.78"/>
+      <stop offset="100%" stop-color="#d42d46" stop-opacity="0"/>
       <animateTransform attributeName="gradientTransform" type="translate" values="-72 0;72 0;-72 0" dur="14s" repeatCount="indefinite"/>
     </linearGradient>
     <radialGradient id="glowCore" cx="50%" cy="50%" r="72%">
-      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.22"/>
-      <stop offset="58%" stop-color="#34d399" stop-opacity="0.08"/>
+      <stop offset="0%" stop-color="#d42d46" stop-opacity="0.22"/>
+      <stop offset="58%" stop-color="#d3344c" stop-opacity="0.08"/>
       <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
     </radialGradient>
     <filter id="glow" x="-25%" y="-55%" width="150%" height="210%">
@@ -29,8 +29,8 @@
     </filter>
     <style>
       .label{font:900 25px 'Segoe UI',Arial,sans-serif;letter-spacing:1.4px;fill:#f0f7f3}
-      .meta{font:800 9px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#67e8f9}
-      .arrow{font:900 25px 'Cascadia Mono',Consolas,monospace;fill:#bbf7d0}
+      .meta{font:800 9px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#ea8a76}
+      .arrow{font:900 25px 'Cascadia Mono',Consolas,monospace;fill:#f5bdc6}
     </style>
   </defs>
 
@@ -44,10 +44,10 @@
   <path d="M54 43H120" stroke="url(#edge)" stroke-width="3" stroke-linecap="round" stroke-dasharray="22 18" filter="url(#glow)">
     <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="16s" repeatCount="indefinite"/>
   </path>
-  <circle cx="54" cy="43" r="8" fill="#2dd4bf" filter="url(#glow)">
+  <circle cx="54" cy="43" r="8" fill="#d42d46" filter="url(#glow)">
     <animate attributeName="r" values="7;9;7" dur="8s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="120" cy="43" r="8" fill="#10b981" filter="url(#glow)"/>
+  <circle cx="120" cy="43" r="8" fill="#ae1b31" filter="url(#glow)"/>
   <text x="154" y="34" class="meta">EXPLORE PUBLIC WORK</text>
   <text x="154" y="61" class="label">Explore Work</text>
   <text x="348" y="55" class="arrow">-&gt;</text>

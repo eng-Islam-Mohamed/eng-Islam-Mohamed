@@ -2,14 +2,14 @@
   <title>Divider Data Capsul</title>
   <desc>An animated README SVG asset illustrating Divider Data Capsul.</desc>
 
-  <line x1="0" y1="55" x2="520" y2="55" stroke="#36514b"/>
-  <line x1="680" y1="55" x2="1200" y2="55" stroke="#36514b"/>
+  <line x1="0" y1="55" x2="520" y2="55" stroke="#51363a"/>
+  <line x1="680" y1="55" x2="1200" y2="55" stroke="#51363a"/>
 
-  <rect x="520" y="35" width="160" height="40" rx="20" fill="#17272a" stroke="#36514b"/>
+  <rect x="520" y="35" width="160" height="40" rx="20" fill="#291b18" stroke="#51363a"/>
 
-  <circle cx="560" cy="55" r="6" fill="#2dd4bf"/>
-  <circle cx="600" cy="55" r="6" fill="#34d399"/>
-  <circle cx="640" cy="55" r="6" fill="#67e8f9">
+  <circle cx="560" cy="55" r="6" fill="#d42d46"/>
+  <circle cx="600" cy="55" r="6" fill="#d3344c"/>
+  <circle cx="640" cy="55" r="6" fill="#ea8a76">
     <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>
   </circle>
 </svg>

@@ -2,10 +2,10 @@
   <title>Divider Circuit Pulse Bar</title>
   <desc>An animated README SVG asset illustrating Divider Circuit Pulse Bar.</desc>
   <path d="M0 50 H250 V30 H500 V70 H750 V50 H1000"
-        stroke="#1f2937" stroke-width="6" fill="none"/>
+        stroke="#362420" stroke-width="6" fill="none"/>
 
   <path d="M0 50 H250 V30 H500 V70 H750 V50 H1000"
-        stroke="#2dd4bf" stroke-width="3"
+        stroke="#d42d46" stroke-width="3"
         stroke-dasharray="100 1400" fill="none">
     <animate attributeName="stroke-dashoffset" values="1500;0" dur="3s" repeatCount="indefinite"/>
   </path>

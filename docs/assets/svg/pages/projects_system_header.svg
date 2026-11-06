@@ -3,7 +3,7 @@
 
     <!-- Background -->
     <radialGradient id="bgGrad" cx="50%" cy="50%" r="80%">
-      <stop offset="0%" stop-color="#111b1d"/>
+      <stop offset="0%" stop-color="#1d1311"/>
       <stop offset="70%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#000000"/>
     </radialGradient>
@@ -11,16 +11,16 @@
     <!-- Core gradient -->
     <radialGradient id="coreGrad" cx="50%" cy="50%" r="60%">
       <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="25%" stop-color="#67e8f9"/>
-      <stop offset="65%" stop-color="#34d399"/>
+      <stop offset="25%" stop-color="#ea8a76"/>
+      <stop offset="65%" stop-color="#d3344c"/>
       <stop offset="100%" stop-color="#0d1117"/>
     </radialGradient>
 
     <!-- Title gradient -->
     <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2dd4bf"/>
-      <stop offset="50%" stop-color="#34d399"/>
-      <stop offset="100%" stop-color="#67e8f9"/>
+      <stop offset="0%" stop-color="#d42d46"/>
+      <stop offset="50%" stop-color="#d3344c"/>
+      <stop offset="100%" stop-color="#ea8a76"/>
     </linearGradient>
 
     <!-- Glow -->
@@ -46,18 +46,18 @@
 
       .subtitle {
         font: 500 14px 'Segoe UI', Arial, sans-serif;
-        fill: #a0b5af;
+        fill: #b5a0a3;
         letter-spacing: 2px;
       }
 
       .system {
         font: 600 12px 'Segoe UI', Arial, sans-serif;
-        fill: #2dd4bf;
+        fill: #d42d46;
         letter-spacing: 2px;
       }
 
       .line {
-        stroke: #29423f;
+        stroke: #42292d;
         stroke-width: 2;
       }
     </style>
@@ -78,13 +78,13 @@
 
   <!-- Orbit rings -->
   <g transform="translate(600 150)" opacity="0.6">
-    <circle r="110" fill="none" stroke="#2dd4bf" stroke-opacity="0.2" stroke-width="2"
+    <circle r="110" fill="none" stroke="#d42d46" stroke-opacity="0.2" stroke-width="2"
             stroke-dasharray="8 16">
       <animateTransform attributeName="transform" type="rotate"
         from="0" to="360" dur="20s" repeatCount="indefinite"/>
     </circle>
 
-    <circle r="140" fill="none" stroke="#34d399" stroke-opacity="0.2" stroke-width="2"
+    <circle r="140" fill="none" stroke="#d3344c" stroke-opacity="0.2" stroke-width="2"
             stroke-dasharray="6 18">
       <animateTransform attributeName="transform" type="rotate"
         from="360" to="0" dur="28s" repeatCount="indefinite"/>
@@ -97,8 +97,8 @@
 
   <!-- Small system nodes -->
   <g filter="url(#glow)">
-    <circle cx="460" cy="150" r="6" fill="#2dd4bf"/>
-    <circle cx="740" cy="150" r="6" fill="#34d399"/>
+    <circle cx="460" cy="150" r="6" fill="#d42d46"/>
+    <circle cx="740" cy="150" r="6" fill="#d3344c"/>
   </g>
 
   <!-- Animated signal -->
@@ -107,7 +107,7 @@
       path="M460,150 C520,140 560,140 600,150"/>
   </circle>
 
-  <circle r="4" fill="#67e8f9">
+  <circle r="4" fill="#ea8a76">
     <animateMotion dur="3.5s" repeatCount="indefinite"
       path="M600,150 C640,160 680,160 740,150"/>
   </circle>
